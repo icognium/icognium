@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/logo.png)
+
 # [iCognium](http://icognium.github.io)  Neuroverse
 
 This platform has been adapted into the globally accredited Course, "[Universal Artificial Inteligence Course](https://www.instagram.com/p/CWJSmL-PnaR/)" in partnership with Advanced Solutions Technical institute.
