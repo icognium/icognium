@@ -77,11 +77,10 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
  
 5. Upload this code to your github account. Name it "My-Code_For-iCognium-Week-1", or something similar.
 
-
-![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage/data/exclamation_mark.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/exclamation_mark.png)
 
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
-* As [discussed prior](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage#why-artificial-neural-network-focussed), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML ingredients.
+* As [discussed prior](https://github.com/icognium/icognium/tree/main#why-artificial-neural-network-focussed), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML ingredients.
 
 # Spaced learning/ [See evidence of spaced learning on nature journal](https://www.nature.com/articles/nrn.2015.18)
 
@@ -217,7 +216,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 
 
 # Your portfolio
-We'll provide you with your own portfolio page (aka your portfolio URL), at [icognium.github.io/students/< your-username >/< your-icognium-id >](https://github.com/icognium/icognium/data/sample_student/blob/main/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD). (See sample portfolio [here](https://github.com/icognium/icognium/data/sample_student/blob/main/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD).)
+We'll provide you with your own portfolio page (aka your portfolio URL), at [icognium.github.io/students/< your-username >/< your-icognium-id >](https://github.com/icognium/icognium/blob/main/data/sample_student/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD). (See sample portfolio [here](https://github.com/icognium/icognium/blob/main/data/sample_student/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD).)
 
 The portfolio will list all your uploaded works, including your final-semester code (if you chose to upload the final-semester-code). You'll provide descriptions and github links of each work entry uploaded to github on the portfolio.
 
