@@ -1,5 +1,8 @@
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/logo.png)
 
+Jamaica's 1st known artificial intelligence education platform with Dio, concerning a tangible full scale car/self driving ecosystem. [See iCognium Neuroverse pricing]().
+
+
 # [iCognium](http://icognium.github.io)  Neuroverse
 
 This platform has been adapted into the globally accredited Course, "[Universal Artificial Inteligence Course](https://www.instagram.com/p/CWJSmL-PnaR/)" in partnership with Advanced Solutions Technical institute.
