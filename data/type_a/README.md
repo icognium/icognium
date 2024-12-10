@@ -241,7 +241,7 @@ This portfolio will be accessible from your URL above, and will appeal to your e
 # Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
 
 # Main Page
-You may return to the main page from [here](https://github.com/g0dEngineer/icognium/icognium).
+You may return to the main page from [here](https://github.com/icognium/icognium).
 
 
 # Happy coding!

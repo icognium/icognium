@@ -81,7 +81,7 @@ This is my custom code that utilizes the **"convolutional artificial neural netw
 
 Download: [My-Code_For-ICOGNIUM-Final-Semester.zip](https://github.com/icognium/icognium/blob/main/data/sample_student/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/My-Code_For-ICOGNIUM-Final-Semester.zip)
 
-Note: This code-base has been copyrighted by student [Jane Doe](http://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD).
+Note: This code-base has been copyrighted by student [Jane Doe](https://github.com/icognium/icognium/blob/main/data/sample_student/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD).
 
 <br/><br/><br/><br/><br/><br/>
 
