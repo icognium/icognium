@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/logo.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/logo.png)
 
 
 # [iCognium](https://icognium.github.io) Curriculum Type B, Tier C (For programmers that don't know python, but know github)
@@ -10,12 +10,12 @@ This curriculum consists of 3 concise mandatory semesters/parts and one optimal 
 3. The second semester, concerning the main topic, **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**!
 4. The last and third semester, concerning applying knowledge from the prior semesters, and attempting to **solve a problem faced by preferably the Jamaican country or elsewhere**. (The code/idea developed is yours, and is not the property of [iCognium](https://icognium.github.io).) 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/time.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/time.png)
 
 
 # Note: The total time required to complete this entire curriculum is roughly 6 weeks 1 day, and 6 hours, excluding semester 3.
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/down.png)
 
 # First Semester, Part A (Estimated Completion Duration: Roughly 30 minutes) ~ Brush up on the python syntax:
 
@@ -27,7 +27,7 @@ This curriculum consists of 3 concise mandatory semesters/parts and one optimal 
 The tutorial above was suggested by [this page](https://github.com/kjaisingh/high-school-guide-to-machine-learning).
 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/down.png)
 
 # First Semester, Part B (Estimated Completion Duration: Roughly 1 hour) ~ Learn a regularly used machine learning library, called "numpy" found in the Python Programming Language:
 
@@ -38,7 +38,7 @@ The tutorial above was suggested by [this page](https://github.com/kjaisingh/hig
 ## First Semester, Part B/Credits:
 The author of the tutorial above is [Stanford](http://cs231n.github.io). (The tutorial above was suggested by [this page](https://github.com/kjaisingh/high-school-guide-to-machine-learning).)
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/down.png)
 
 
 # First Semester, Part C (Estimated Completion Duration: Roughly 40 minutes) ~ Learn a regularly used machine learning library, called "pickle" found in the Python Programming Language:
@@ -51,7 +51,7 @@ The author of the tutorial above is [Stanford](http://cs231n.github.io). (The tu
 More python pickle information can be found on the [Pickle Library Page](https://wiki.python.org/moin/Pickle). 
 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/down.png)
 
 # Second Semester (Estimated Completion Duration: 6 weeks and 4 hours) ~ Study and Write "[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)" Code:
 
@@ -76,7 +76,7 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 5. Upload this code to your github account. Name it "My-Code_For-iCognium-Week-1", or something similar.
 
 
-![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage/blob/main/data/exclamation_mark.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage/data/exclamation_mark.png)
 
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
 * As [discussed prior](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage#why-artificial-neural-network-focussed), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML ingredients.
@@ -181,7 +181,7 @@ This semester concludes with a core review of mathematical notations ranging fro
 
 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/down.png)
 
 # RED Policy/Key to benefiting from Ai development (4th SEMESTER PRE-REQUISITE APPROACH)
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
@@ -201,7 +201,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 
 
 
-![Alt Text](https://github.com/icognium/icognium/blob/main/data/tick.png)
+![Alt Text](https://github.com/icognium/icognium/data/tick.png)
 # Third Semester (Estimated Completion Duration: 2+ weeks) ~ Apply prior semesters' knowledge to configure Dio Lucciola Self driving vehicle.
 
 [Dio Self Driving Car)[https://theomniautomobil.github.io/]
@@ -211,7 +211,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 3. Configuring Stable 5V Power Output Supply for Dio Self Driving Brain/Jetson Nano
 4. Configuring and installing self driving system for Dio
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/portfolio.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/portfolio.png)
 
 
 # Your portfolio
@@ -222,9 +222,9 @@ The portfolio will list all your uploaded works, including your final-semester c
 This portfolio will be accessible from your URL above, and will appeal to your employers!
       
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/blob/main/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_c/data/down.png)
 
-# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
+# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
 
 
 # Main Programmer Page
