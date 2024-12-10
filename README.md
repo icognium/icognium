@@ -3,6 +3,9 @@
 Jamaica's 1st known artificial intelligence education platform with Dio, concerning a tangible full scale car/self driving ecosystem. [See iCognium Neuroverse pricing](http://icognium.github.io).
 
 
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
+
+
 # [iCognium](http://icognium.github.io)  Neuroverse
 
 This platform has been adapted into the globally accredited Course, "[Universal Artificial Inteligence Course](https://www.instagram.com/p/CWJSmL-PnaR/)" in partnership with Advanced Solutions Technical institute.
@@ -114,7 +117,7 @@ This course had been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
 
-- [x] Conclusion: Unique hands on coding with a real, full scale fundamental self driving car, designed and built here in Jamaica.
+- [x] Conclusion: Unique hands on coding with a real, full scale fundamental self driving car, [designed and built here in Jamaica](https://sketchfab.com/3d-models/dio-lucciola-d7c46fb87869459d95c94df2762d7be3).
 - [x] Key Fundamental Artificial Neural Network Coding  (Without bases like this that explore [Universal Function Approximators](https://en.wikipedia.org/wiki/Universal_approximation_theorem) like Neural Networks, it is harder to debug Machine Learning Libraries when something goes wrong!)
 - [x] Practical Convolutional Artificial Neural Network application (Seen in real world in Self driving cars, Disease Diagnosis engines etc)
 - [x] Practical Recurrent Artificial Neural Network application (Seen in real world in any voice recognition App)

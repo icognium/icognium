@@ -215,12 +215,13 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/tick.png)
 # Third Semester (Estimated Completion Duration: 2+ weeks) ~ Apply prior semesters' knowledge to configure Dio Lucciola Self driving vehicle.
 
-[Dio Self Driving Car)[https://theomniautomobil.github.io/]
+[Dio Self Driving Car](https://theomniautomobil.github.io/)
 
 1. Configuring 12V DC Battery for Dio Chassis/Locomotion
 2. Configuring PWM DC motor speed controllerfor Dio Chassis
 3. Configuring Stable 5V Power Output Supply for Dio Self Driving Brain/Jetson Nano
 4. Configuring and installing self driving system for Dio
+
 ![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/portfolio.png)
 
 # Your portfolio
