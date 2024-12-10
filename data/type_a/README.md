@@ -1,6 +1,7 @@
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_a/data/logo.png)
 
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
 
 
 # [iCognium](http://icognium.github.io) Curriculum Type A (For non programmers)
@@ -215,7 +216,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 * Key is to identify ones that clearly specify their accuracy/senstivity/specificity for many cases. (Eg of resource for pre-trained models found on Github and Kaggle)
 
 
-![Alt Text](https://github.com/icognium/icognium/data/tick.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/tick.png)
 # Fourth Semester (Estimated Completion Duration: 2+ weeks) ~ Apply prior semesters' knowledge to configure Dio Lucciola Self driving vehicle.
 
 [Dio Self Driving Car)[https://theomniautomobil.github.io/]
@@ -240,7 +241,7 @@ This portfolio will be accessible from your URL above, and will appeal to your e
 # Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
 
 # Main Page
-You may return to the main page from [here](https://github.com/g0dEngineer/icognium).
+You may return to the main page from [here](https://github.com/g0dEngineer/icognium/icognium).
 
 
 # Happy coding!

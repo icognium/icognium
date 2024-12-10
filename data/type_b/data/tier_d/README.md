@@ -1,5 +1,7 @@
 ![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/logo.png)
 
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
+
 
 # [iCognium](https://icognium.github.io) Curriculum Type B, Tier D (For programmers that don't know python, and don't know github)
 ## Course Code: "iCognium-CTBTD"
@@ -210,7 +212,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 
 
 
-![Alt Text](https://github.com/icognium/icognium/data/tick.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/tick.png)
 # Third Semester (Estimated Completion Duration: 2+ weeks) ~ Apply prior semesters' knowledge to configure Dio Lucciola Self driving vehicle.
 
 [Dio Self Driving Car)[https://theomniautomobil.github.io/]
@@ -229,10 +231,10 @@ The portfolio will list all your uploaded works, including your final-semester c
 This portfolio will be accessible from your URL above, and will appeal to your employers!
       
 ![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
-# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
+# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
       
 # Main Programmer Page
-You may return to the **programmer curriculum selection page** from [here](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage).
+You may return to the **programmer curriculum selection page** from [here](https://github.com/icognium/icognium/blob/main/data/type_b/README.md).
 
 
 

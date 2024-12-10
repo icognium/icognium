@@ -111,6 +111,9 @@ This course had been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 [GodQuest Bennett](https://www.linkedin.com/in/god-bennett/) and [Mrs. Quest]() are the founders of [iCognium](https://icognium.github.io). [GodQuest Bennett](https://www.linkedin.com/in/god-bennett/) author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
 
 # Skills gained
+
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
+
 - [x] Conclusion: Unique hands on coding with a real, full scale fundamental self driving car, designed and built here in Jamaica.
 - [x] Key Fundamental Artificial Neural Network Coding  (Without bases like this that explore [Universal Function Approximators](https://en.wikipedia.org/wiki/Universal_approximation_theorem) like Neural Networks, it is harder to debug Machine Learning Libraries when something goes wrong!)
 - [x] Practical Convolutional Artificial Neural Network application (Seen in real world in Self driving cars, Disease Diagnosis engines etc)

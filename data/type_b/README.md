@@ -2,8 +2,12 @@
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/logo.png)
 
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
+
 
 # Main Overview
+
+
 Based on the goals that [iCognium](http://icognium.github.io) desginates its students to perform, programmers may select from 4 different tiers of of curriculums.
 
 As such, from here on out, you select one of the tiers below, and begin your learning process:
