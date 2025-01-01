@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_a/data/logo.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_a/data/logo.png)
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
 
