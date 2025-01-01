@@ -221,7 +221,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 
 [Dio Self Driving Car](https://theomniautomobil.github.io/)
 
-1. Configuring 12V DC Battery for Dio Chassis/Locomotion
+1. Configuring 24V DC Battery for Dio Chassis/Locomotion
 2. Configuring PWM DC motor speed controllerfor Dio Chassis
 3. Configuring Stable 5V Power Output Supply for Dio Self Driving Brain/Jetson Nano
 4. Configuring and installing self driving system for Dio
