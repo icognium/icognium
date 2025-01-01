@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/logo.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/logo.png)
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/dio.png)
 
@@ -13,11 +13,11 @@ This curriculum consists of 4 concise mandatory semesters/parts and one optimal 
 3. The third semester, concerning the main topic, **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**!
 4. The last and fourth semester, concerning applying knowledge from the prior semesters, and attempting to **solve a problem faced by preferably the Jamaican country or elsewhere**. (The code/idea developed is yours, and is not the property of [iCognium](https://icognium.github.io).) 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/time.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/time.png)
 
 # Note: The total time required to complete this entire curriculum is roughly 6 weeks 1 day, and 7 hours, excluding semester 4.
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
 
 # First Semester, Part A (Estimated Completion Duration: Roughly 30 minutes) ~ Brush up on the python syntax:
 
@@ -29,7 +29,7 @@ This curriculum consists of 4 concise mandatory semesters/parts and one optimal 
 The tutorial above was suggested by [this page](https://github.com/kjaisingh/high-school-guide-to-machine-learning).
 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
 
 # First Semester, Part B (Estimated Completion Duration: Roughly 1 hour) ~ Learn a regularly used machine learning library, called "numpy" found in the Python Programming Language:
 
@@ -40,7 +40,7 @@ The tutorial above was suggested by [this page](https://github.com/kjaisingh/hig
 ## First Semester, Part B/Credits:
 The author of the tutorial above is [Stanford](http://cs231n.github.io). (The tutorial above was suggested by [this page](https://github.com/kjaisingh/high-school-guide-to-machine-learning).)
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
 
 
 # First Semester, Part C (Estimated Completion Duration: Roughly 40 minutes) ~ Learn a regularly used machine learning library, called "pickle" found in the Python Programming Language:
@@ -52,7 +52,7 @@ The author of the tutorial above is [Stanford](http://cs231n.github.io). (The tu
 ## First Semester, Part C/Credits:
 More python pickle information can be found on the [Pickle Library Page](https://wiki.python.org/moin/Pickle). 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
 
 # Second Semester (Estimated Completion Duration: Roughly 1 hour) ~ Learn how to setup and use github:
 
@@ -63,7 +63,7 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 ## Second Semester/Credits:
 The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudler). 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
 
 
 # Third Semester (Estimated Completion Duration: 6 weeks and 4 hours) ~ Study and Write "[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)" Code:
@@ -193,7 +193,7 @@ This semester concludes with a core review of mathematical notations ranging fro
 
 
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
 # RED Policy/Key to benefiting from Ai development (4th SEMESTER PRE-REQUISITE APPROACH)
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
 What do you do when you want to hire a driver for a new driving task?
@@ -222,7 +222,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 3. Configuring Stable 5V Power Output Supply for Dio Self Driving Brain/Jetson Nano
 4. Configuring and installing self driving system for Dio
 
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/portfolio.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/portfolio.png)
 
 # Your portfolio
 We'll provide you with your own portfolio page (aka your portfolio URL), at [icognium.github.io/students/< your-username >/< your-icognium-id >](https://github.com/icognium/icognium/blob/main/data/sample_student/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD). (See sample portfolio [here](https://github.com/icognium/icognium/blob/main/data/sample_student/students/Jane-Doe/ICOGNIUM-JANE-GMAIL.COM/PORTFOLIO.MD).)
@@ -231,7 +231,7 @@ The portfolio will list all your uploaded works, including your final-semester c
 
 This portfolio will be accessible from your URL above, and will appeal to your employers!
       
-![Alt Text](https://github.com/icognium/icognium/tree/main/data/type_b/data/tier_d/data/down.png)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
 # Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
       
 # Main Programmer Page
