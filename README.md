@@ -127,7 +127,8 @@ This course had been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 - [x] Deep Learning/Paper Writing (Exposed in Certificate)
 - [x] Ai Product Building (Exposed in Course)
 - [x] Rapid Ai Product Building Methodology (Exposed in Course) (including [schedules](https://github.com/icognium/icognium/blob/main/data/Ai%20Development%20Schedule%20Template%20--%20God%20Bennett.pdf))
-- [x] Artificial General Intelligence Basis.
+- [x] Artificial General Intelligence Basis
+- [x] Don't just learn how to code. Learn a structured strategy for coding with markets/rewards in mind. (See [my cost execution matrix](https://github.com/icognium/icognium/blob/main/data/G.BENNETT_AI_EXECUTION_COST_MATRIX.pdf)). 
 * Separate/outside of the Syllabus-Exam rubric & Course, UAD lecturer Bennett uniquely introduces Human Level Ai/Artificial General Intelligence - (predicted by around 2023-2029 or later, by experts to be mankind's last invention).
 
 
