@@ -58,8 +58,8 @@ The two main categories above are expressible as 2 types, based on the goals tha
 
 As such, from here on out, you select one of the types below, and begin your learning process:
 
-1. [iCognium For Non programmers (Type A)](https://github.com/icognium/icognium/tree/main/data/type_a/README.md)
-2. [iCognium For Programmers (Type B)](https://github.com/icognium/icognium/tree/main/data/type_b/README.md)
+1. [iCognium For Non programmers (Type A)](https://github.com/icognium/icognium/tree/main/data/type_a/README.md).  Please see [introduction](https://github.com/icognium/icognium/blob/main/data/outlines%20and%20rubrics/iCognium%20Outline%20%5BNon%20Programmers%20Course%20Outline%5D.pdf) and [rubric](https://github.com/icognium/icognium/blob/main/data/outlines%20and%20rubrics/Rubric_iCognium.xlsx).
+2. [iCognium For Programmers (Type B)](https://github.com/icognium/icognium/tree/main/data/type_b/README.md). Please see [introduction](https://github.com/icognium/icognium/blob/main/data/outlines%20and%20rubrics/iCognium%20Outline%20%5BProgrammers%20Course%20Outline%5D.pdf) and [rubric](https://github.com/icognium/icognium/blob/main/data/outlines%20and%20rubrics/Rubric_iCognium.xlsx).
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/tick.png)
 
