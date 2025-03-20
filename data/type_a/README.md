@@ -7,6 +7,8 @@
 # [iCognium](http://icognium.github.io) Curriculum Type A (For non programmers)
 ## Course Code: "iCognium-CTA"
 
+# Amongst other goals, one long term goal is to have Ai as a subject in PEP, CXC, CAPE etc, especially given [80 trillion market cap estimated from Ai in around 2030](https://finance.yahoo.com/news/cathie-wood-just-called-technology-140000074.html), and estimated [automation of around 800 million jobs](https://www.bbc.com/news/world-us-canada-42170100) by around the same year.
+
 # Main Overview
 This curriculum consists of 4 concise mandatory semesters/parts and one optimal segment; an  Introduction to Artificial General Intelligence.
 1. The first semester, concerning the **python programming language** (and **regularly used machine learning libraries in python**).
@@ -85,8 +87,8 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 4. (Mandatory) From Bennett's [Live Neural Network Programming session format,](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 we will construct a basic artificial neural network from scratch together, without the usage of any machine learning library. (You can follow this guideline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).)
 
-At this juncture, the live neural network session doubly serves as a reasonable measure of strengthening the human developer's ability to retain and work through an apparently non trivial measure of cognitive systems/tasks.
-ICognium estimates that there should be a balance between knowing how Ai works (i.e. via the live human driven neural network writing session), and having Ai otherwise work to automate solutions (non-ai produced code). 
+5. At this juncture, the live neural network session doubly serves as a reasonable measure of strengthening the human developer's ability to retain and work through an apparently non trivial measure of cognitive systems/tasks.
+ICognium estimates that there should be a balance between knowing how Ai works (i.e. via the live human driven neural network writing session), and having Ai otherwise work to automate solutions (non-human "solely ai" produced code). 
 See: [Young Coders Are Using AI for Everything, Giving "Blank Stares" When Asked How Programs Actually Work](https://futurism.com/young-coders-ai-cant-program)
 
 
