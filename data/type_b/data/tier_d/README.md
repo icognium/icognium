@@ -238,7 +238,7 @@ The portfolio will list all your uploaded works, including your final-semester c
 This portfolio will be accessible from your URL above, and will appeal to your employers!
       
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_d/data/down.png)
-# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
+# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) according to Prof Ben Gortzel, etc.
       
 # Main Programmer Page
 You may return to the **programmer curriculum selection page** from [here](https://github.com/icognium/icognium/blob/main/data/type_b/README.md).
