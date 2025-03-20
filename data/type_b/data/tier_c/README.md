@@ -6,7 +6,7 @@
 # [iCognium](https://icognium.github.io) Curriculum Type B, Tier C (For programmers that don't know python, but know github)
 ## Course Code: "iCognium-CTBTC"
 
-# Amongst other goals, one long term goal is to have Ai as a subject in PEP, CXC, CAPE etc, especially given [80 trillion market cap estimated from Ai in around 2030](https://finance.yahoo.com/news/cathie-wood-just-called-technology-140000074.html), and estimated [automation of around 800 million jobs](https://www.bbc.com/news/world-us-canada-42170100) by around the same year.
+# Amongst other goals, one medium+ term goal is to have Ai as a subject in PEP, CXC, CAPE etc, especially given [80 trillion market cap estimated from Ai in around 2030](https://finance.yahoo.com/news/cathie-wood-just-called-technology-140000074.html), and estimated [automation of around 800 million jobs](https://www.bbc.com/news/world-us-canada-42170100) by around the same year.
 
 # Main Overview
 This curriculum consists of 3 concise mandatory semesters/parts and one optimal segment; an  Introduction to Artificial General Intelligence.
