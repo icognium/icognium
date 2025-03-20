@@ -66,6 +66,9 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 4. (Mandatory) From Bennett's [Live Neural Network Programming session format,](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 we will construct a basic artificial neural network from scratch together, without the usage of any machine learning library. (You can follow this guideline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).) 
 
+At this juncture, the live neural network session doubly serves as a reasonable measure of strengthening the human developer's ability to retain and work through an apparently non trivial measure of cognitive systems/tasks.
+ICognium estimates that there should be a balance between knowing how Ai works (i.e. via the live human driven neural network writing session), and having Ai otherwise work to automate solutions (non-ai produced code). 
+See: [Young Coders Are Using AI for Everything, Giving "Blank Stares" When Asked How Programs Actually Work](https://futurism.com/young-coders-ai-cant-program)
 
 Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
  
