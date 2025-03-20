@@ -232,7 +232,7 @@ This portfolio will be accessible from your URL above, and will appeal to your e
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/type_b/data/tier_c/data/down.png)
 
-# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
+# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/icognium/icognium/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) according to Prof Ben Gortzel, etc.
 
 
 # Main Programmer Page
