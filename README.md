@@ -111,7 +111,7 @@ This course had been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 
 
 # About author
-[GodQuest Bennett](https://www.linkedin.com/in/god-bennett/) and [Mrs. Quest]() are the founders of [iCognium](https://icognium.github.io). [GodQuest Bennett](https://www.linkedin.com/in/god-bennett/) author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
+[Cosmos Bennett](https://www.linkedin.com/in/iCosmosNeuroverse/) and [Mrs. Quest]() are the founders of [iCognium](https://icognium.github.io). [Cosmos Bennett](https://www.linkedin.com/in/iCosmosNeuroverse/) author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
 
 # Skills gained
 
