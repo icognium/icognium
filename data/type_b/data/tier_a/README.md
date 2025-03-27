@@ -116,7 +116,7 @@ Note: Your experiment does not need to include any 3d agent. Only a browser text
 
 2. Alternative 2: [Create an assistant using free RASA Open Source RNN based chatbot](https://rasa.com)
 
-Example with guideline from lead Universal AI Course Instructor/Lecturer: https://godquestbennett.medium.com/universal-ai-course-ibm-cloud-assistant-recurrent-neural-network-alternative-e42ce4d02a6d
+Example with guideline from lead Universal AI Course Instructor/Lecturer: https://icosmosneuroverse.medium.com/universal-ai-course-ibm-cloud-assistant-recurrent-neural-network-alternative-e42ce4d02a6d
 Note: The item above unlike Alternative 1, does not require the use of visa card. (requires only your github profile which you would have had initially)
 
 # Repeat: Universal Ai Course - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
@@ -130,7 +130,7 @@ Note: The item above unlike Alternative 1, does not require the use of visa card
 
 Alternative:
 
-Instructions: https://medium.com/@godquestbennett/universal-ai-course-week-5-generative-adversarial-neural-network-instructions-cf1b554ef92
+Instructions: https://medium.com/@icosmosneuroverse/universal-ai-course-week-5-generative-adversarial-neural-network-instructions-cf1b554ef92
 1. Use any colab gan style transfer code to make a custom image (transfer style to any image of your choice).
 2. Sign up for any free NFT space like Mintable, and "mint" aka upload your gan image "art" with a nice title.
 
@@ -154,7 +154,7 @@ Example cases by Lead Universal Ai Course Instructor/Lecturer:
 
 ___
 Example case by Lead Universal Ai Course Instructor/Lecturer: 
-1. [Artificial Neural Networks + Reinforcement Learning for autonomous cars in Open World 3rd World 'Extortionist' Game by God Bennett](https://www.youtube.com/watch?v=r-PipvI6rUM)
+1. [Artificial Neural Networks + Reinforcement Learning for autonomous cars in Open World 3rd World 'Extortionist' Game by Cosmos Bennett](https://www.youtube.com/watch?v=r-PipvI6rUM)
 
 
 
