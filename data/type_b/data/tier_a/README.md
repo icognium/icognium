@@ -109,7 +109,7 @@ Example cases by Universal Ai Course Lead Lecturer/Instructor:
 
 _____
 1. Alternative: [Create an assistant using free IBM Watson Cloud. This technology uses recurrent neural networks](https://www.ibm.com/cloud/learn/recurrent-neural-networks). Sign up for [IBM now for free](https://www.ibm.com/cloud).
-See [guideline by UAD Lecturer G. Bennett](https://drive.google.com/file/d/1x9nC5wnw-UYMJJweFwlsZx67sve449Ft/view?usp=sharing).
+See [guideline by UAD Lecturer Cosmos Bennett](https://drive.google.com/file/d/1x9nC5wnw-UYMJJweFwlsZx67sve449Ft/view?usp=sharing).
 
 Example from lead Universal AI Course Instructor/Lecturer: https://youtu.be/pxgLJSd3_-s
 Note: Your experiment does not need to include any 3d agent. Only a browser text messenger is fine.
