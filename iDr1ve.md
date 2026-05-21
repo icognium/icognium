@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/logo.png)
 
-iDr1ve concerns the conversion of your running or otherwise Nissan pickup to a mid-engine hypercar appearing unit based on Dio Lucciola Formulazione Design. 
+iDr1ve concerns the conversion of your running or otherwise Nissan pickup to a mid-engine hypercar (aka omni macchina/omni automobil) -appearing unit based on Dio Lucciola Formulazione Design. 
 
 # Butterflyless Lucciola/Real life guide
 
