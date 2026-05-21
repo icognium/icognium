@@ -23,5 +23,6 @@ iDr1ve concerns the conversion of your running or otherwise Nissan pickup to a m
 
 
 Interested in licensing a unit like (3) for education in a primary/prep school/high school, college or university? See [pricing](https://github.com/icognium/icognium/blob/main/ICOGNIUM_PRICING.md).
+Interested in learning car design in 3d, see [iC0nstruct](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/README.md).
 
 
