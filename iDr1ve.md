@@ -2,8 +2,23 @@
 
 iDr1ve concerns the conversion of your running or otherwise Nissan pickup to a mid-engine hypercar appearing unit based on Dio Lucciola Formulazione Design. 
 
+# Butterflyless Lucciola/Real life guide
+
+3d preview: https://skfb.ly/pHonM
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/LUCCIOLA_FORMULAZIONE_2.png)
+
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/LUCCIOLA_FORMULAZIONE_3.png)
+
+# Butterfly Lucciola/Real life guide
+
+3d preview: https://skfb.ly/pHMq8
+
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/GIANT_BUTTERFLY_WINGS_A.png)
+
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/GIANT_BUTTERFLY_WINGS_B.png)
+
+
 
 # Pricing Packages (Only Mid-Engine, RWD Format Available)
 
