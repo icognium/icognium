@@ -5,7 +5,7 @@ iDr1ve concerns the conversion of your running or otherwise Nissan pickup to a m
 
 ![Alt Text](https://github.com/icognium/icognium/blob/main/data/LUCCIOLA_FORMULAZIONE_2.png)
 
-# Pricing Packages (Only Mid-Engine Format Available)
+# Pricing Packages (Only Mid-Engine, RWD Format Available)
 
 1. Butterflyless, Katana 600 - 80 hp omniautomobil/leisure configuration, powered Lucciola Formulazione Body/Engine Kit: 5000 USD
 
