@@ -8,6 +8,6 @@ We want to help foster the manufacturing of both embedded Ai (software) and nich
 
 # Pricing Packages
 
-1. License one Full Scale/Modular Dio Unit Vehicle and 6 week Ai Curriculum/Lecture 2000 usd.
+1. License one Full Scale/Modular Dio Unit Vehicle and [6 week Ai Curriculum/Lecture](https://github.com/icognium/icognium/tree/main) 2000 usd.
 
-2. License two Full Scale/Modular Dio Unit Vehicle and 6 week Ai Curriculum/Lecture 4000 usd.
+2. License two Full Scale/Modular Dio Unit Vehicle and [6 week Ai Curriculum/Lecture](https://github.com/icognium/icognium/tree/main) 4000 usd.
