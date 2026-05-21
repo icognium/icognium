@@ -22,6 +22,6 @@ iDr1ve concerns the conversion of your running or otherwise Nissan pickup to a m
 7. Butterfly, K20C4 650 whp omniautomobil/hypercar configuration (under 2000lbs, 0.36+ hp per pound): 16000 USD
 
 
-Interested in licensing (3)?
+Interested in licensing a unit like (3) for education in a primary/prep school/high school, college or university? See [pricing](https://github.com/icognium/icognium/blob/main/ICOGNIUM_PRICING.md).
 
 
