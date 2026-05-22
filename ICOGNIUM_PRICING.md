@@ -15,3 +15,10 @@ We want to help foster the manufacturing of both embedded Ai (software) and nich
 
 Interested in learning car design in 3d, see [iC0nstruct](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/README.md).
 Interested in purchasing a Lucciola deep body kit for the road, see [iDr1ve](https://github.com/icognium/icognium/blob/main/iDr1ve.md).
+
+
+
+
+# Summary both road-versioned and campus/school versioned:
+
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/PRICE-POSTER%20GIF.gif)
