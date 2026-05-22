@@ -2,7 +2,7 @@
 
 iDr1ve concerns the conversion of your running or otherwise vehicle (chassis type to be discussed on request) to a mid-engine hypercar (aka omni macchina/omni automobil) -appearing unit based on Dio Lucciola Formulazione Design. 
 
-# Full sclae prototype fiberglass mule. This body is a temporary, alien skin themed unit.
+# Full scale [prototype fiberglass mule](https://www.youtube.com/watch?v=fu1ef6_2FFI). This body is a temporary, alien skin themed unit.
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/LUCCIOLA_FULL_SCALE_GIF_5_.gif)
 
