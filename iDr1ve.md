@@ -45,7 +45,7 @@ Interested in learning car design in 3d, see [iC0nstruct](https://github.com/iCo
 
 # Summary both road-versioned and campus/school versioned:
 
-![Alt Text](https://github.com/icognium/icognium/blob/main/data/PRICE-POSTER%20GIF.gif)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/PRICE-POSTER-GIF.gif)
 
 
 
