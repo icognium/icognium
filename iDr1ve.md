@@ -42,3 +42,9 @@ Interested in licensing a unit like (3) for education in a primary/prep school/h
 Interested in learning car design in 3d, see [iC0nstruct](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/README.md).
 
 
+# Summary both road-versioned and campus/school versioned:
+
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/PRICE-POSTER%20GIF.gif)
+
+
+
