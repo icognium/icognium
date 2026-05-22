@@ -19,6 +19,7 @@ Interested in purchasing a Lucciola deep body kit for the road, see [iDr1ve](htt
 
 
 
+
 # Summary both road-versioned and campus/school versioned:
 
-![Alt Text](https://github.com/icognium/icognium/blob/main/data/PRICE-POSTER%20GIF.gif)
+![Alt Text](https://github.com/icognium/icognium/blob/main/data/PRICE-POSTER-GIF.gif)
