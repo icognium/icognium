@@ -3,6 +3,7 @@
 iDr1ve concerns the conversion of your running or otherwise vehicle (chassis type to be discussed on request) to a mid-engine hypercar (aka omni macchina/omni automobil) -appearing unit based on Dio Lucciola Formulazione Design. 
 
 # Butterflyless Lucciola/Real life guide
+_'Butterflyless' - still incorporates butterfly/swan/jet/jamaican/caribbean aestetic, but has less butterfly components, i.e. minus the large butterfly like Organic Aileron like wings_
 
 3d preview: https://skfb.ly/pHonM
 
