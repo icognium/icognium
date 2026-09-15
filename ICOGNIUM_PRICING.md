@@ -5,6 +5,9 @@ We want to help foster the manufacturing of both embedded Ai (software) and nich
 
 # Full scale [prototype fiberglass mule](https://www.youtube.com/watch?v=fu1ef6_2FFI). This body is a temporary, alien skin themed unit.
 
+![Alt Text](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/LUCCIOLA_FULL_SCALE_GIF_5_.gif)
+
+
 # Butterflyless Lucciola/Real life guide
 
 _'Butterflyless' - still incorporates butterfly/swan/jet/jamaican/caribbean aestetic, but has less butterfly components, i.e. minus the large butterfly like Organic Aileron like wings_
@@ -25,7 +28,6 @@ _'Butterflyless' - still incorporates butterfly/swan/jet/jamaican/caribbean aest
 
 
 
-![Alt Text](https://github.com/icognium/icognium/blob/main/data/LUCCIOLA_FORMULAZIONE_2.png)
 
 # Pricing Packages
 
